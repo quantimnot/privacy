@@ -71,7 +71,7 @@ Cons:
 - low price
 - end-to-end encryption
 
-I ~highly~ recommend getting a custom domain name to use for our emails.
+I **highly** recommend getting a custom domain name to use for our emails.
 
 ### Domain Registrar
 
