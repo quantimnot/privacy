@@ -145,11 +145,11 @@ https://njal.la/domains/
 
 ### Tor
 
-Use [Tor](https://www.torproject.org/) when you want true anonimity.
+Use [Tor](https://www.torproject.org/) when you want true anonymity.
 
 ### VPN
 
-VPNs do **NOT** provide anonimity, but they do provide an important layer of privacy.
+VPNs do **NOT** provide anonymity, but they do provide an important layer of privacy.
 
 Please see also https://www.privacyguides.org/vpn/. Any of their recommendations
 are good.
